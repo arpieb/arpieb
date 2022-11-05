@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here's my validation for <a rel="me" href="https://sigmoid.social/@arpieb">sigmoid.social</a>.
+
 <!--
 **arpieb/arpieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
